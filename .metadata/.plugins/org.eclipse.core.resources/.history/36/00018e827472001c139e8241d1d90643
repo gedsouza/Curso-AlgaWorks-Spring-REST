@@ -1,0 +1,5 @@
+package com.algaworks.geovalog.api.controller;
+
+public class ClienteController {
+
+}

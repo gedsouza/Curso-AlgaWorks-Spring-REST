@@ -1,0 +1,5 @@
+package com.algaworks.geovalog.domain.model;
+
+public class Cliente {
+
+}
